@@ -8,4 +8,8 @@
     <display-name>Simple app</display-name>
     <description>Simple app description</description>
 
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+    
 </web-app>
