@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="simple-app-ear" />
+        <module name="simple-app-ejb" />
+        <module name="simple-app-web" />
+        <module name="simpleappear" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simple-app" target="1.5" />
+      <module name="simple-app-ear" target="1.5" />
+      <module name="simple-app-ejb" target="1.5" />
+      <module name="simple-app-web" target="1.5" />
+      <module name="simpleappear" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple-app.iml" filepath="$PROJECT_DIR$/simple-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-app-ear/simpleappear.iml" filepath="$PROJECT_DIR$/simple-app-ear/simpleappear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-app-ejb/simple-app-ejb.iml" filepath="$PROJECT_DIR$/simple-app-ejb/simple-app-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-app-web/simple-app-web.iml" filepath="$PROJECT_DIR$/simple-app-web/simple-app-web.iml" />
+    </modules>
+  </component>
+</project>
