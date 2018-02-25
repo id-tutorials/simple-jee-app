@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="ear" name="simple-app-ear:ear">
-    <output-path>$PROJECT_DIR$/simple-app-ear/target</output-path>
-    <root id="archive" name="simple-app-ear-1.0-SNAPSHOT.ear">
-      <element id="artifact" artifact-name="simple-app-ear:ear exploded" />
-    </root>
-  </artifact>
-</component>
